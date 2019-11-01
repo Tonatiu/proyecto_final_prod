@@ -25,7 +25,7 @@ SECRET_KEY = '!so1r)^d#&arb18cy8^j6=kgl153n+_csca(pqzqm2(ka5(n6b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'tonawarrior.pythonanywhere.com']
 
 
 # Application definition
